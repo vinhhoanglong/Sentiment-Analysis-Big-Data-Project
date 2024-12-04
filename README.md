@@ -1,5 +1,5 @@
 # Sentiment-Analysis-Big-Data-Project
-![](imgs/final.png)
+![](imgs/final1.png)
 
 # Công việc cần thực hiện
 
