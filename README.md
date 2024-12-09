@@ -30,4 +30,4 @@
 - **Huấn luyện mô hình phân tích cảm xúc**:
   - Tạo file Notebook sử dụng access key từ IAM role.
   - Lấy dữ liệu train và test để huấn luyện mô hình phân tích cảm xúc.
-
+  - Sử dụng các mô hình Embedding mạnh mẽ như Bert + SparkNLP nhằm tăng cường độ chính xác cho mô hình
